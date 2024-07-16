@@ -6,10 +6,10 @@ function toggleMode() {
     const alt = document.querySelector("#profile img")
 
     if(html.classList.contains("ligth")) {
-        img.setAttribute("src","../assets/avatar-light.png")
+        img.setAttribute("src","../assets/avatar-light.jpg")
         alt.setAttribute ("alt","Imagem do Alex com fundo preto!")
     } else {
-        img.setAttribute("src","../assets/avatar.png")
+        img.setAttribute("src","../assets/avatar.jpg")
         alt.setAttribute ("alt","Imagem do Alex com fundo branco!")
     }
     
