@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-<p align="center"> Visualize o projeto em https://devalexhenrique.github.io/devlinks/
+<p align="center"> Visualize o projeto em https://alexprado2.github.io/devlinks/
   
 </p>
 
